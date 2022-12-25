@@ -1,0 +1,15 @@
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/Task3.csproj.AssemblyReference.cache
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/Task3.AssemblyInfoInputs.cache
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/Task3.AssemblyInfo.cs
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/Task3.csproj.CoreCompileInputs.cache
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/bin/Debug/net7.0/Task3
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/bin/Debug/net7.0/Task3.deps.json
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/bin/Debug/net7.0/Task3.runtimeconfig.json
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/bin/Debug/net7.0/Task3.dll
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/bin/Debug/net7.0/Task3.pdb
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/Task3.dll
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/refint/Task3.dll
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/Task3.pdb
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/Task3.genruntimeconfig.cache
+/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/Debug/net7.0/ref/Task3.dll

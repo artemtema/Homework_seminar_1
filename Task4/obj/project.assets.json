@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kishlakfree/Desktop/Homework_seminar_1/Task4/Task4.csproj",
-      "projectName": "Task4",
-      "projectPath": "/Users/kishlakfree/Desktop/Homework_seminar_1/Task4/Task4.csproj",
+      "projectUniqueName": "/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/Task3.csproj",
+      "projectName": "Task3",
+      "projectPath": "/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/Task3.csproj",
       "packagesPath": "/Users/kishlakfree/.nuget/packages/",
-      "outputPath": "/Users/kishlakfree/Desktop/Homework_seminar_1/Task4/obj/",
+      "outputPath": "/Users/kishlakfree/Desktop/Homework_seminar_1/Task3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kishlakfree/.nuget/NuGet/NuGet.Config"
